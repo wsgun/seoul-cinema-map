@@ -1,7 +1,7 @@
 # 서울 단관극장 아카이브
-**Seoul Single-Screen Cinema Archive · 1910–2024**
+**Seoul Single-Screen Cinema Archive · 1907–2024**
 
-An interactive map documenting the rise and disappearance of Seoul's single-screen cinemas — from the city's first permanent movie house in 1910 to the last neighborhood theaters shuttered by the multiplex era.
+An interactive map documenting the rise and disappearance of Seoul's single-screen cinemas — from the city's first permanent movie house in 1907 to the last neighborhood theaters shuttered by the multiplex era.
 
 → **[Live Demo](https://wsgun.github.io/seoul-cinema-map)**
 
@@ -32,5 +32,5 @@ No bundler, no framework. Opens directly in a browser.
 
 ---
 
-*"극장이 도시의 랜드마크였던 시절이 있었다."*  
-*There was a time when cinemas were the landmarks of the city.*
+Cinema can fill in the empty spaces of your life and your loneliness.
+- Pedro Almodovar
